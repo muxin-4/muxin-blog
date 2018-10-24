@@ -1,9 +1,9 @@
 module.exports = {
   siteMetadata: {
     url: 'https://www.yaoyaoniu.com/',
-    title: "wgy's Blog",
+    title: "GuanYu Wang's Blog",
     subtitle:
-      'Guanyu is a JavaScript developer from China. He works with a wide range of frontend tech stacks. He is enthusiastic about functional programming and aspires to make it accessible to more programmers. He believes in life long learning and commits himself to it.',
+      'GuanYu is a JavaScript developer from China. He works with a wide range of frontend tech stacks. He is enthusiastic about functional programming and aspires to make it accessible to more programmers. He believes in life long learning and commits himself to it.',
     copyright: '© All rights reserved.',
     disqusShortname: 'rayhuang',
     menu: [
@@ -24,8 +24,8 @@ module.exports = {
         path: '/category/I%20Know%20Node',
       },
       {
-        label: 'More About Lei',
-        path: '/more-about-lei',
+        label: 'More About Guanyu',
+        path: '/more-about-guanyu',
       },
     ],
     author: {
@@ -35,7 +35,7 @@ module.exports = {
       twitter: 'guanyuwang5',
       github: 'yaoyaoniu',
       medium: 'wgy952046097',
-      instagram: 'wgyserialcoder_',
+      instagram: 'guanyu448',
     },
   },
   plugins: [

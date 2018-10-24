@@ -1,10 +1,10 @@
 ---
-title: "More About Lei"
+title: "More About GuanYu"
 layout: page
-path: "/more-about-lei"
+path: "/more-about-guanyu"
 ---
 
-Hi, I'm Lei.
+Hi, I'm GuanYu.
 
 I'm a self-taught JavaScript developer.
 
