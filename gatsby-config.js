@@ -3,7 +3,7 @@ module.exports = {
     url: 'https://www.yaoyaoniu.com/',
     title: "wgy's Blog",
     subtitle:
-      'Lei is a JavaScript developer from China. He works with a wide range of frontend tech stacks. He is enthusiastic about functional programming and aspires to make it accessible to more programmers. He believes in life long learning and commits himself to it.',
+      'Guanyu is a JavaScript developer from China. He works with a wide range of frontend tech stacks. He is enthusiastic about functional programming and aspires to make it accessible to more programmers. He believes in life long learning and commits himself to it.',
     copyright: '© All rights reserved.',
     disqusShortname: 'rayhuang',
     menu: [
@@ -29,12 +29,12 @@ module.exports = {
       },
     ],
     author: {
-      name: 'wgy',
+      name: 'Guanyu Wang',
       email: 'Wgy952046097@gmail.com',
       telegram: 'wgy',
-      twitter: 'wgy',
-      github: 'wgy',
-      medium: 'wgy',
+      twitter: 'guanyuwang5',
+      github: 'yaoyaoniu',
+      medium: 'wgy952046097',
       instagram: 'wgyserialcoder_',
     },
   },
