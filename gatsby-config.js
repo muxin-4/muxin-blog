@@ -31,7 +31,7 @@ module.exports = {
     author: {
       name: 'Guanyu Wang',
       email: 'Wgy952046097@gmail.com',
-      telegram: 'wgy',
+    //   telegram: '',
       twitter: 'guanyuwang5',
       github: 'yaoyaoniu',
       medium: 'wgy952046097',
