@@ -4,7 +4,7 @@ import get from 'lodash/get';
 import Link from 'gatsby-link';
 import Menu from '../Menu';
 import Links from '../Links';
-import profilePic from '../../pages/avator.jpg';
+import profilePic from '../../pages/avatar.jpg';
 import './style.scss';
 
 class Sidebar extends React.Component {
